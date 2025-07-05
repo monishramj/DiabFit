@@ -3,3 +3,5 @@
 
 DiabFit represents a groundbreaking approach to monitoring glucose levels and calculating insulin doses. Designed for individuals managing diabetes or insulin requirements, this app aims to provide essential support. Please note that DiabFit does not constitute medical advice; for any inquiries, consult your healthcare provider.
 
+This project was designed to facilitate learning mobile app development, and as a result, some errors may be present.
+
